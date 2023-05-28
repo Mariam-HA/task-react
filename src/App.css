@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.contener {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+.title {
+  text-align: center;
+}
+.desctiption {
+  font-size: medium;
+}
+.resturent image {
+  height: 100 hv;
+}
