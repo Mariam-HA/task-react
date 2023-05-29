@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: rgba(222, 241, 248, 0.662);
+  background-color: rgb(209, 227, 247);
 
   /* background-image: linear-gradient(
     rgb(224, 253, 253),
@@ -28,12 +28,14 @@
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
   font-size: 45px;
+  /* color: white; */
 }
 .contener h4 {
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
   margin: 20px;
+  /* color: white; */
 }
 
 .plapla {
@@ -56,4 +58,5 @@
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
   margin: 10px;
+  /* color: white; */
 }
